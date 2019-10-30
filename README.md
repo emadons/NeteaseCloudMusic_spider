@@ -21,12 +21,17 @@ wordcloud库是优秀的词云展示第三方库，以词语为基本单位，�
 
 
 #### 生成词云的背景及样式如下：
- ![image](wordCloud/4.jpg)
- ![image](wordCloud/词云.png)
 <p align="center">
-	<img src="wordCloud/4.jpg" alt="Sample"  width="100px" height="100px">
+	<img src="wordCloud/4.jpg"  width="250px" height="250px">
 	<p align="center">
 		<em>背景轮廓</em>
+	</p>
+</p>
+
+<p align="center">
+	<img src="wordCloud/词云.png"  width="250px" height="250px">
+	<p align="center">
+		<em>词云</em>
 	</p>
 </p>
 
