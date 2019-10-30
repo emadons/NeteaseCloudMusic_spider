@@ -21,9 +21,14 @@ wordcloud库是优秀的词云展示第三方库，以词语为基本单位，�
 
 
 #### 生成词云的背景及样式如下：
- ![image](wordCloud/4.jpg){: width="100px" height="100px"}   
- ![image](wordCloud/词云.png){: width="100px" height="100px"}
-
+ ![image](wordCloud/4.jpg)
+ ![image](wordCloud/词云.png)
+<p align="center">
+	<img src="wordCloud/4.jpg" alt="Sample"  width="100px" height="100px">
+	<p align="center">
+		<em>背景轮廓</em>
+	</p>
+</p>
 
 #### 总结：
 总体来说自己的这个爬虫也是挺有意思的，而且我也经常用网易云音乐来听歌，用这个来入门很不错。网易云音乐也很良心，获取歌词不需要登录，唯一的缺点就是需要自己去查找相关api找到对应的入口，这一点相对比较废时间，还有一个难点就是要把ip代理搞好，防止请求次数过多而被封，关键自己还是要有耐心。
