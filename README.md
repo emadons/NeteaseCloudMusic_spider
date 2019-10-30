@@ -21,8 +21,8 @@ wordcloud库是优秀的词云展示第三方库，以词语为基本单位，�
 
 
 #### 生成词云的背景及样式如下：
- ![image](wordCloud/4.jpg)
- ![image](wordCloud/词云.png)
+ ![image](wordCloud/4.jpg){: width="100px" height="100px"}   
+ ![image](wordCloud/词云.png){: width="100px" height="100px"}
 
 
 #### 总结：
